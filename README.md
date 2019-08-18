@@ -9,6 +9,7 @@ Role: Team Lead
 Project Name: KARMA
 
 Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
+
 Key Focus:
 1. Generate loyal volunteers dedicated to at least one charitable category
 2. To increase the total volunteer hours per community and per charitable category
@@ -17,8 +18,8 @@ Key Focus:
 5. To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
 
 Duties Performed:
-•	Involved in estimation and analysis of the requirements.
-•	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+	Involved in estimation and analysis of the requirements.
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
 
 Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
@@ -32,6 +33,7 @@ Description: Its designed to provide service providers a dedicated industry-spec
 TeacherBio is designed for teachers and tutors of academic subjects,including music.
 
 The goals are following:
+
 1.The site has several pages of external content, including sales landing pages with appealing graphic design and layout
 2.The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the website
 3.Advertisers can opt in to background screening
@@ -41,11 +43,12 @@ The goals are following:
 7.Title tag and meta keyword
 
 Duties Performed:
-•	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -58,25 +61,27 @@ Project Name: Mina
 Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
 
 Duties performed:
-•	Understanding the business functionality & Analysis of business requirements.
-•	Loading files to HDFS and writing hive queries to process required data.
-•	Loading data to Hive tables and writing queries to process.
-•	Loaded data from DWH systems to Mongodb by using Sqoop..
-•	Maintaining and Administrating the 16 node Hadoop cluster.
-•	Worked on setting up Hadoop over multiple nodes and designed and developed Java map reduce jobs.
-•	Involved in loading data from LINUX file system to HDFS.
-•	Implemented test scripts to support test driven development and continuous integration.
-•	Responsible to manage data coming from different sources.
-•	Load and transform large sets of structured, semi structured and unstructured data.
-•	Experience in managing and reviewing Hadoop log files.
-•	Worked on Hive for exposing data for further analysis and for generating transforming files from different analytical formats to text files.
-•	Managing and scheduling Jobs on a Hadoop cluster.
-•	Installed and configured HadoopMapReduce, HDFS, Developed multiple MapReduce jobs in java for data cleaning and preprocessing.
-•	Importing and exporting data into HDFS and Hive using Sqoop.
-•	Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
-•	Written Hive queries for data analysis to meet the business requirements.
-•	Involved in writing Hive scripts to extract, transform and load the data into Database
-Environment:- Hadoop, Linux, HDFS, Hive, Sqoop.
+
+	Understanding the business functionality & Analysis of business requirements.
+	Loading files to HDFS and writing hive queries to process required data.
+	Loading data to Hive tables and writing queries to process.
+	Loaded data from DWH systems to Mongodb by using Sqoop..
+	Maintaining and Administrating the 16 node Hadoop cluster.
+	Worked on setting up Hadoop over multiple nodes and designed and developed Java map reduce jobs.
+	Involved in loading data from LINUX file system to HDFS.
+	Implemented test scripts to support test driven development and continuous integration.
+	Responsible to manage data coming from different sources.
+	Load and transform large sets of structured, semi structured and unstructured data.
+	Experience in managing and reviewing Hadoop log files.
+	Worked on Hive for exposing data for further analysis and for generating transforming files from different analytical formats to text files.
+	Managing and scheduling Jobs on a Hadoop cluster.
+	Installed and configured HadoopMapReduce, HDFS, Developed multiple MapReduce jobs in java for data cleaning and preprocessing.
+	Importing and exporting data into HDFS and Hive using Sqoop.
+	Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
+	Written Hive queries for data analysis to meet the business requirements.
+	Involved in writing Hive scripts to extract, transform and load the data into Database
+
+Environment: Hadoop, Linux, HDFS, Hive, Sqoop.
 
 Project#4 (Jan 2013 – Aug 2014)
 
@@ -87,21 +92,23 @@ Project Name: GraceClinicOnline (GCO)
 Description: Grace Clinic Online provides an intimate and engaging experience that enables its users to maintain or improve their wellness outside of a healthcare facility.
 
 Key Features:
-1)Provision of a wellness platform containing the required tools to support supervised self-managed health care.
-2)Delivery of interactive teaching methods for proactive health care.
-3)Access to intuitive feedback and metrics for maintenance of wellness. 
+	Provision of a wellness platform containing the required tools to support supervised self-managed health care.
+	Delivery of interactive teaching methods for proactive health care.
+	Access to intuitive feedback and metrics for maintenance of wellness. 
 
 The Purpose:
+
 Achievement of Grace Clinic Online goals will not only reduce the cost of healthcare, but also increase the quality of healthcare. 
 
 Duties Performed:
-•	Involved in estimation and analysis of the requirements.
-•	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
-•	Carry forward reusable components and best practices  for future release projects.
+
+	Involved in estimation and analysis of the requirements.
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
+	Carry forward reusable components and best practices  for future release projects.
 
 Environment: Zend Framework, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -115,12 +122,13 @@ Description: The Citibank microsite is a wordpress coupon website that will allo
 All actions on the site made by users/customers will be tracked both by the coupon module and by integrated  Google analytics and provided in way of real –time reports in the private access dashboard. 
 
 Duties Performed:
-•	Involved in estimation and analysis of the requirements.
-•	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Involved in estimation and analysis of the requirements.
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: Wordpress, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -145,11 +153,12 @@ In 2012, we are proud to be supporting the McGrath Foundation in its campaign to
 The platform has been designed and built by Helix Digital for Fairfax Regional Media, publishers of more than 160 newspaper websites across regional and rural Australia. 
 
 Duties Performed:
-•	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Co-ordinate meetings and agendas with clients and project manager to get design or development clarifications.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: CakePhp, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -162,14 +171,15 @@ Project Name: Flexpertise (Job Portal)
 Description: It’s a website developed using PHP. This website provides the individual credentials for both jobseekers and employers. Employers will post the job requirements through this website. So that jobseekers can view and apply for the respective jobs thorough their individual logins. This website have a module (Message Board) which plays an important role in employees and jobseekers communication. 
 
 Duties Performed:
-•	Involved in estimation and analysis of the requirements.
-•	Resource allocation to various modules. 
-•	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
-•	Build good rapport with team and gave support and suggestions to finish their tasks.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Involved in estimation and analysis of the requirements.
+	Resource allocation to various modules. 
+	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
+	Build good rapport with team and gave support and suggestions to finish their tasks.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX
 
@@ -183,9 +193,10 @@ Description: Puremixtapes is a website to maintain the images and audio files (m
 The main advantage of puremixtapes is, we are storing the static images, uploading dynamic images and uploading audio files as well (mixtapes) into the cloud servers and the same information can be fetched from the cloud server. This helps to increases the performance of the site. This website provides user with sort options to fetch the recent mixtapes, Most popular – Daily /weekly /Monthly /Top rated popular mixtapes.
 
 Duties Performed:
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -200,14 +211,15 @@ Instructor can maintain the schedules of their courses which are assigned to the
 This website enables mutual interaction amongst all three parties through the report generation and email console developed
 
 Duties Performed:
-•	Involved in estimation and analysis of the requirements.
-•	Resource allocation to various modules. 
-•	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
-•	Build good rapport with team and gave support and suggestions to finish their tasks.
-•	Played major role in developing and delivering code to client with minimal and low priority defects.
-•	Perform code reviews for the team.
-•	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
-•	Deliver project to client on time without any delinquencies.
+
+	Involved in estimation and analysis of the requirements.
+	Resource allocation to various modules. 
+	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
+	Build good rapport with team and gave support and suggestions to finish their tasks.
+	Played major role in developing and delivering code to client with minimal and low priority defects.
+	Perform code reviews for the team.
+	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
+	Deliver project to client on time without any delinquencies.
 
 Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
@@ -222,11 +234,12 @@ Description: This website, ArtsandCrafts-Lifestyle, is committed to supporting t
 It is developed by using osCommerce and it has got many features like multilingual, administration/backend functionality, customer/frontend functionality, product functionality, payment functionality,  shipping functionality and tax functionality. 
 
 Duties Performed:
-•	Understand and code the specifications given by client.
-•	Prepare unit test plan and test cases for the project involved on. 
-•	Develop and test the requirements.
-•	Tracked and Resolved the bugs raised on time.
-•	Delivered quality code to client on time without any delays.
+
+	Understand and code the specifications given by client.
+	Prepare unit test plan and test cases for the project involved on. 
+	Develop and test the requirements.
+	Tracked and Resolved the bugs raised on time.
+	Delivered quality code to client on time without any delays.
 
 Environment: Php, JavaScript, HTML, MYSQL and LINUX.
 
@@ -241,11 +254,12 @@ Description: While Supply Chain Management, Logistics and Procurement form the 3
 Our On-Target features assure that a whole array of suppliers and their product details and specifications is presented on your desktop,just by a simple keyword or product search.
 
 Duties Performed:
-•	Understand and code the specifications given by client.
-•	Prepare unit test plan and test cases for the project involved on. 
-•	Develop and test the requirements.
-•	Tracked and Resolved the bugs raised on time.
-•	Delivered quality code to client on time without any delays.
+
+	Understand and code the specifications given by client.
+	Prepare unit test plan and test cases for the project involved on. 
+	Develop and test the requirements.
+	Tracked and Resolved the bugs raised on time.
+	Delivered quality code to client on time without any delays.
 
 Environment: Code-Igniter, JavaScript, HTML, MYSQL and LINUX.
 
@@ -262,11 +276,12 @@ Our auction software solutions include an administration console consisting of e
 Images, Audis, videos can be uploaded and attached with the product description. 
 
 Duties Performed:
-•	Understand and code the specifications given by client.
-•	Prepare unit test plan and test cases for the project involved on. 
-•	Develop and test the requirements.
-•	Tracked and Resolved the bugs raised on time.
-•	Delivered quality code to client on time without any delays.
+
+	Understand and code the specifications given by client.
+	Prepare unit test plan and test cases for the project involved on. 
+	Develop and test the requirements.
+	Tracked and Resolved the bugs raised on time.
+	Delivered quality code to client on time without any delays.
 
 Environment: CAKEPHP, JavaScript, HTML, MYSQL and LINUX.
 
