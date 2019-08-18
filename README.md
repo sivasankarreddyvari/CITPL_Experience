@@ -169,33 +169,31 @@ Project#7 (Jan 2011 – Aug 2011)
 
 Project#8 (Sep 2010 – Dec 2010)
 
-Role: PHP Developer
+	Role: PHP Developer
 
-Project Name: Puremixtapes
+	Project Name: Puremixtapes
 
-Description: Puremixtapes is a website to maintain the images and audio files (mixtapes). 
-The main advantage of puremixtapes is, we are storing the static images, uploading dynamic images and uploading audio files as well (mixtapes) into the cloud servers and the same information can be fetched from the cloud server. This helps to increases the performance of the site. This website provides user with sort options to fetch the recent mixtapes, Most popular – Daily /weekly /Monthly /Top rated popular mixtapes.
+	Description: Puremixtapes is a website to maintain the images and audio files (mixtapes). 
+	The main advantage of puremixtapes is, we are storing the static images, uploading dynamic images and uploading audio files as well (mixtapes) into the cloud servers and the same information can be fetched from the cloud server. This helps to increases the performance of the site. This website provides user with sort options to fetch the recent mixtapes, Most popular – Daily /weekly /Monthly /Top rated popular mixtapes.
 
-Duties Performed:
-
+	Duties Performed:
 	Played major role in developing and delivering code to client with minimal and low priority defects.
 	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
 	Deliver project to client on time without any delinquencies.
 
-Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
+	Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#9 (May 2009 – Aug 2010)
 
-Role: Lead Developer
+	Role: Lead Developer
 
-Project Name: After School
+	Project Name: After School
 
-Description: It’s a website developed using Cake PHP . In this portal parents, instructors and team leads are provided individual login. 
-Instructor can maintain the schedules of their courses which are assigned to them by respective team leads. 
-This website enables mutual interaction amongst all three parties through the report generation and email console developed
+	Description: It’s a website developed using Cake PHP . In this portal parents, instructors and team leads are provided individual login. 
+	Instructor can maintain the schedules of their courses which are assigned to them by respective team leads. 
+	This website enables mutual interaction amongst all three parties through the report generation and email console developed
 
-Duties Performed:
-
+	Duties Performed:
 	Involved in estimation and analysis of the requirements.
 	Resource allocation to various modules. 
 	Establish meetings and agendas to make design or development clarifications and make team as productive resources to fulfill client needs.
@@ -205,7 +203,7 @@ Duties Performed:
 	Perform unit testing and integration testing before handing over to enterprise or user acceptance testing teams.
 	Deliver project to client on time without any delinquencies.
 
-Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
+	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#10  (July 2008 – Apr 2009)
 
