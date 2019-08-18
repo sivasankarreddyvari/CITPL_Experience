@@ -30,8 +30,7 @@ Project#2 (July 2016 – Sept 2016)
 	Project Name: TutorBio
 
 	Description: Its designed to provide service providers a dedicated industry-specific platform to advertise their businesses. 
-TeacherBio is designed for teachers and tutors of academic subjects,including music.
-
+	TeacherBio is designed for teachers and tutors of academic subjects,including music.
 	The goals are following:
 	The site has several pages of external content, including sales landing pages with appealing graphic design and layout
 	The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the 	website
