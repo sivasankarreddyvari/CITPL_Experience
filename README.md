@@ -1,9 +1,11 @@
 # CITPL_Experience
 Experience in Cerulean Information Technology Pvt Ltd
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 Project#1	 (Oct 2016 – Nov 2016)
+
 Role: Team Lead
+
 Project Name: KARMA
 
 Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
@@ -21,7 +23,9 @@ Duties Performed:
 Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
 Project#2 (July 2016 – Sept 2016)
+
 Role: Lead Developer
+
 Project Name: TutorBio
 
 Description: Its designed to provide service providers a dedicated industry-specific platform to advertise their businesses. 
@@ -46,10 +50,13 @@ Duties Performed:
 Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#3 (Sept 2014 – June 2016)
+
 Role: Team Lead
 
 Project Name: Mina
+
 Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
+
 Duties performed:
 •	Understanding the business functionality & Analysis of business requirements.
 •	Loading files to HDFS and writing hive queries to process required data.
@@ -72,11 +79,13 @@ Duties performed:
 Environment:- Hadoop, Linux, HDFS, Hive, Sqoop.
 
 Project#4 (Jan 2013 – Aug 2014)
+
 Role: Team Lead
 
 Project Name: GraceClinicOnline (GCO)
 
 Description: Grace Clinic Online provides an intimate and engaging experience that enables its users to maintain or improve their wellness outside of a healthcare facility.
+
 Key Features:
 1)Provision of a wellness platform containing the required tools to support supervised self-managed health care.
 2)Delivery of interactive teaching methods for proactive health care.
@@ -97,6 +106,7 @@ Duties Performed:
 Environment: Zend Framework, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#5 (Oct 2012 – Dec 2012)
+
 Role: Team Lead
 
 Project Name: Citibank White Label Wordpress Microsite Project
@@ -115,6 +125,7 @@ Duties Performed:
 Environment: Wordpress, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#6 (Client Location)						Sept 2011 – Sept 2012
+
 Role: Lead Developer
 
 Project Name: ConnectPink && Mobile version 
@@ -143,6 +154,7 @@ Duties Performed:
 Environment: CakePhp, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#7 (Jan 2011 – Aug 2011)
+
 Role: Lead Developer
 
 Project Name: Flexpertise (Job Portal)
@@ -162,6 +174,7 @@ Duties Performed:
 Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX
 
 Project#8 (Sep 2010 – Dec 2010)
+
 Role: PHP Developer
 
 Project Name: Puremixtapes
@@ -177,6 +190,7 @@ Duties Performed:
 Environment: PHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#9 (May 2009 – Aug 2010)
+
 Role: Lead Developer
 
 Project Name: After School
@@ -198,6 +212,7 @@ Duties Performed:
 Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 Project#10  (July 2008 – Apr 2009)
+
 Role: PHP Developer
 
 Project Name: Arts & Crafts-Lifestyle
@@ -216,6 +231,7 @@ Duties Performed:
 Environment: Php, JavaScript, HTML, MYSQL and LINUX.
 
 Project#11  (Jan 2008 – Jun 2008)
+
 Role: PHP Developer
 
 Project Name: GULFBAZAAR
@@ -234,6 +250,7 @@ Duties Performed:
 Environment: Code-Igniter, JavaScript, HTML, MYSQL and LINUX.
 
 Project#12  (Jan 2007 – Dec 2007)
+
 Role: PHP Developer
 
 Project Name: AUCTION PORTAL
