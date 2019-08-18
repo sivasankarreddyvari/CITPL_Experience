@@ -11,6 +11,7 @@ Project Name: KARMA
 Description: The Karma App will be available native IOS and Android (not webseite) and will bring together international charitable organizations with eager volunteers. From the Mobile App will get the request with input parameters. In the PHP we will take that input parameters and will send the output to mobile APP using webservices (restfull API).
 
 Key Focus:
+
 	Generate loyal volunteers dedicated to at least one charitable category
 	To increase the total volunteer hours per community and per charitable category
 	To provide charities with cutting edge technology to enhance their programs with no additional cost.
