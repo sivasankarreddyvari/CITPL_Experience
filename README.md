@@ -15,7 +15,7 @@ Key Focus:
 	To increase the total volunteer hours per community and per charitable category
 	To provide charities with cutting edge technology to enhance their programs with no additional cost.
 	To provide detailed analytics to both Charities and CSR programs
-	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new events on needkarma.com.
+	To provide a user friendly, responsive design dashboard/web app that charities can access to track event success, analytics, download reports, and add/edit new 	events on needkarma.com.
 
 Duties Performed:
 	Involved in estimation and analysis of the requirements.
@@ -34,13 +34,13 @@ TeacherBio is designed for teachers and tutors of academic subjects,including mu
 
 The goals are following:
 
-1.The site has several pages of external content, including sales landing pages with appealing graphic design and layout
-2.The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the website
-3.Advertisers can opt in to background screening
-4.Advertisers will have the ability to log in to their account to manage their payment options and basic account settings, and update their profile, etc.
-5.Users searching for services from the Advertisers (“Users”) will be able to search for Advertisers with our search bar. And searches in Google will return auto-generated results pages based on subject/location (just like Yelp)
-6.Admin can follow basic management of accounts
-7.Title tag and meta keyword
+	The site has several pages of external content, including sales landing pages with appealing graphic design and layout
+	The site allows businesses (“Advertisers”) to ‘build’ a profile and purchase a subscription that will grant them the value of displaying their profile on the 	website
+	Advertisers can opt in to background screening
+	Advertisers will have the ability to log in to their account to manage their payment options and basic account settings, and update their profile, etc.
+	Users searching for services from the Advertisers (“Users”) will be able to search for Advertisers with our search bar. And searches in Google will return 	auto-generated results pages based on subject/location (just like Yelp)
+	Admin can follow basic management of accounts
+	Title tag and meta keyword
 
 Duties Performed:
 
