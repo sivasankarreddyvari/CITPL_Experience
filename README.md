@@ -4,7 +4,7 @@ Experience in Cerulean Information Technology Pvt Ltd
 
 Project#1 (Oct 2016 – Nov 2016)
 
-	Role: Team Lead
+	Role: Team Leader
 
 	Project Name: KARMA
 
@@ -25,7 +25,7 @@ Project#1 (Oct 2016 – Nov 2016)
 
 Project#2 (July 2016 – Sept 2016)
 
-	Role: Lead Developer
+	Role: Team Leader
 
 	Project Name: TutorBio
 
@@ -51,7 +51,7 @@ Project#2 (July 2016 – Sept 2016)
 
 Project#3 (Sept 2014 – June 2016)
 
-	Role: Team Lead
+	Role: Team Leader
 
 	Project Name: Mina
 
@@ -81,7 +81,7 @@ Project#3 (Sept 2014 – June 2016)
 
 Project#4 (Jan 2013 – Aug 2014)
 
-	Role: Team Lead
+	Role: Team Leader
 
 	Project Name: GraceClinicOnline (GCO)
 
@@ -108,7 +108,7 @@ Project#4 (Jan 2013 – Aug 2014)
 
 Project#5 (Oct 2012 – Dec 2012)
 
-	Role: Team Lead
+	Role: Team Leader
 
 	Project Name: Citibank White Label Wordpress Microsite Project
 
@@ -169,7 +169,7 @@ Project#7 (Jan 2011 – Aug 2011)
 
 Project#8 (Sep 2010 – Dec 2010)
 
-	Role: PHP Developer
+	Role: Lead Developer
 
 	Project Name: Puremixtapes
 
@@ -207,7 +207,7 @@ Project#9 (May 2009 – Aug 2010)
 
 Project#10  (July 2008 – Apr 2009)
 
-	Role: PHP Developer
+	Role: Software Engineer
 
 	Project Name: Arts & Crafts-Lifestyle
 
@@ -226,7 +226,7 @@ Project#10  (July 2008 – Apr 2009)
 
 Project#11  (Jan 2008 – Jun 2008)
 
-	Role: PHP Developer
+	Role: Software Engineer
 
 	Project Name: GULFBAZAAR
 
@@ -244,7 +244,7 @@ Project#11  (Jan 2008 – Jun 2008)
 
 Project#12  (Jan 2007 – Dec 2007)
 
-	Role: PHP Developer
+	Role: Software Engineer
 
 	Project Name: AUCTION PORTAL
 
