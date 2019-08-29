@@ -2,7 +2,7 @@
 Experience in Cerulean Information Technology Pvt Ltd
 -----------------------------------------------------------------------------------------------------------------------------
 
-Project#1 (Oct 2016 – Nov 2016)
+Project#1 (June 2016 – Nov 2016)
 
 	Role: Team Leader
 
@@ -23,7 +23,7 @@ Project#1 (Oct 2016 – Nov 2016)
 
 	Environment: CakePHP, Restfull API, JavaScript/jQuery, HTML, MYSQL, AJAX and LINUX.
 
-Project#2 (July 2016 – Sept 2016)
+Project#2 (Oct 2015 – May 2016)
 
 	Role: Team Leader
 
@@ -49,37 +49,8 @@ Project#2 (July 2016 – Sept 2016)
 
 	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
-Project#3 (Sept 2014 – June 2016)
 
-	Role: Team Leader
-
-	Project Name: Mina
-
-	Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
-
-	Duties Performed:
-	Understanding the business functionality & Analysis of business requirements.
-	Loading files to HDFS and writing hive queries to process required data.
-	Loading data to Hive tables and writing queries to process.
-	Loaded data from DWH systems to Mongodb by using Sqoop..
-	Maintaining and Administrating the 16 node Hadoop cluster.
-	Worked on setting up Hadoop over multiple nodes and designed and developed Java map reduce jobs.
-	Involved in loading data from LINUX file system to HDFS.
-	Implemented test scripts to support test driven development and continuous integration.
-	Responsible to manage data coming from different sources.
-	Load and transform large sets of structured, semi structured and unstructured data.
-	Experience in managing and reviewing Hadoop log files.
-	Worked on Hive for exposing data for further analysis and for generating transforming files from different analytical formats to text files.
-	Managing and scheduling Jobs on a Hadoop cluster.
-	Installed and configured HadoopMapReduce, HDFS, Developed multiple MapReduce jobs in java for data cleaning and preprocessing.
-	Importing and exporting data into HDFS and Hive using Sqoop.
-	Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
-	Written Hive queries for data analysis to meet the business requirements.
-	Involved in writing Hive scripts to extract, transform and load the data into Database
-
-	Environment: Hadoop, Linux, HDFS, Hive, Sqoop.
-
-Project#4 (Jan 2013 – Aug 2014)
+Project#4 (Jan 2013 – Sept 2015)
 
 	Role: Team Leader
 
