@@ -50,7 +50,26 @@ Project#2 (Oct 2015 – May 2016)
 	Environment: CakePHP, JavaScript, HTML, MYSQL, jQuery, AJAX and LINUX.
 
 
-Project#4 (Jan 2013 – Sept 2015)
+Project#3 (April 2015 – Sept 2015)
+	
+	Role: Team Lead
+
+	Project Name: Mina
+	Description: Planancial is a financial planning firm. The company creates individual financial plans/financial makeovers for users between the ages of 22 & 34. We recommend financial options to individuals and families to help them reach their short-term and long-term goals. We help address every part of a client’s financial, from how to manage their debt to determining if they have both enough and the right type of insurance. As a financial planning firm we focus on helping clients manage their basic financial needs and at this time we do not provide investment advice. We gather customers and their needs information thru many apps and data bases. We loads data into HDFS. Based on the client requirement we create MR programs and respond with recommendations in time.
+	Duties performed:
+		Understanding the business functionality & Analysis of business requirements.
+		Loading files to HDFS and writing hive queries to process required data.
+		Loading data to Hive tables and writing queries to process.
+		Worked on setting up Hadoop over multiple nodes and designed and developed Java map reduce jobs.
+		Involved in loading data from LINUX file system to HDFS.
+		Responsible to manage data coming from different sources.
+		Load and transform large sets of structured, semi structured and unstructured data.
+		Importing and exporting data into HDFS and Hive using Sqoop.
+		Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
+	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop.
+
+
+Project#4 (Jan 2013 – Mar 2015)
 
 	Role: Team Leader
 
