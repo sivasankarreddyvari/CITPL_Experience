@@ -60,10 +60,8 @@ Project#3 (April 2015 – Sept 2015)
 		Understanding the business functionality & Analysis of business requirements.
 		Loading files to HDFS and writing hive queries to process required data.
 		Loading data to Hive tables and writing queries to process.
-		Worked on setting up Hadoop over multiple nodes and designed and developed Java map reduce jobs.
 		Involved in loading data from LINUX file system to HDFS.
 		Responsible to manage data coming from different sources.
-		Load and transform large sets of structured, semi structured and unstructured data.
 		Importing and exporting data into HDFS and Hive using Sqoop.
 		Involved in creating Hive tables, loading with data and writing hive queries that will run internally in map reduce way.
 	Environment:- Hadoop, Linux, HDFS, Hive, Sqoop.
